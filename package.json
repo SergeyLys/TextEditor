@@ -1,0 +1,21 @@
+{
+  "name": "text-editor-sample",
+  "version": "1.0.0",
+  "description": "Test task for Agile Engine. Basic text editor.",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-static",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://odiachenko@bitbucket.org/agileengine/ae-frontend-texteditor-vanillajs-skeleton.git"
+  },
+  "author": "AgileEngine",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/agileengine/ae-frontend-texteditor-vanillajs-skeleton#readme",
+  "devDependencies": {
+    "http-static": "0.0.8"
+  },
+  "dependencies": {}
+}
